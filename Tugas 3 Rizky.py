@@ -12,11 +12,11 @@ print("     IDENTITAS MAHASISWA")
 print("================================")
 
 # Memasukkan data mahasiswa
-nama = input("RIZKY AGUNG PERMANA: ")
+nama = input("RIZKI AGUNG PERMANA: ")
 
 nim = int(input("26241022: "))
 
-prodi = input("Produk PTI: ")
+prodi = input("Prodi PTI: ")
 
 dua_digit_nim = int(input("22: "))
 
